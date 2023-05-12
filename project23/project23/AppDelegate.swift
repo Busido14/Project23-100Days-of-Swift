@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Project 23
+//  project23
 //
 //  Created by Артем Чжен on 12/05/23.
 //
